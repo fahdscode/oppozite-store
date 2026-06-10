@@ -9,13 +9,23 @@
 
 ---
 
+## Screenshots
+
+![Products](oppozite-products.png)
+
+![Brand](oppozite-brand.png)
+
+![Product Page](oppozite-product.png)
+
+---
+
 ## Overview
 
-Oppozite is a full-featured ecommerce store built from scratch. It handles everything from product browsing to checkout, with a custom storefront built for performance and conversion.
+Oppozite is a full-featured ecommerce store built from scratch. Custom storefront experience, product catalog, and optimized checkout flow — built for performance and conversion.
 
 ## Tech Stack
 
-- **Frontend**: React + TypeScript — component-driven UI, typed throughout
+- **Frontend**: React + TypeScript
 - **Backend**: Node.js + Express — REST API, business logic, order management
 - **Database**: Relational DB with structured product/order schema
 - **Auth**: JWT-based authentication & session management
@@ -30,4 +40,4 @@ Oppozite is a full-featured ecommerce store built from scratch. It handles every
 
 ## Contact
 
-Interested in a similar project? Reach out at [fahdgamad080@gmail.com](mailto:fahdgamad080@gmail.com)
+[fahdgamad080@gmail.com](mailto:fahdgamad080@gmail.com)
